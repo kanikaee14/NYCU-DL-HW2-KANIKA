@@ -108,9 +108,6 @@ The output file `pred.json` is in COCO results format:
 ]
 ```
 
-Zip the file and submit to CodaBench. The file inside the zip **must** be named `pred.json`.
-
----
 
 ## Performance Snapshot
 
@@ -121,12 +118,10 @@ Zip the file and submit to CodaBench. The file inside the zip **must** be named 
 | Weak Baseline (mAP) | ~0.28 |
 | Strong Baseline (mAP) | ~0.38 |
 
-<!-- Insert a screenshot of your CodaBench leaderboard result here -->
-<!-- ![Leaderboard](leaderboard_screenshot.png) -->
 
-> Replace the comment above with an actual screenshot of your leaderboard score before submission.
 
----
+
+
 
 ## Repository Structure
 
