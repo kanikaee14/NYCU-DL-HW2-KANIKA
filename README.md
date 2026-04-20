@@ -110,10 +110,7 @@ The output file `pred.json` is in COCO results format:
 
 
 ## Performance Snapshot
-![Project Snapshot](https://github.com/kanikaee14/NYCU-CV-DL-HW1-Kanika/raw/main/snapshot.png)
-
-
-
+![Project Snapshot](https://github.com/kanikaee14/NYCU-DL-HW2-KANIKA/blob/main/snapshot.png)
 
 
 
