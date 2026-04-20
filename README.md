@@ -111,12 +111,7 @@ The output file `pred.json` is in COCO results format:
 
 ## Performance Snapshot
 
-| Metric | Value |
-|---|---|
-| Best Training Loss | 0.2145 |
-| Confidence Threshold | 0.3 |
-| Weak Baseline (mAP) | ~0.28 |
-| Strong Baseline (mAP) | ~0.38 |
+
 
 
 
