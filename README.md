@@ -114,18 +114,6 @@ The output file `pred.json` is in COCO results format:
 
 
 
-## Repository Structure
-
-```
-.
-├── train_infer.py       # Main training and inference script
-├── requirements.txt     # Python dependencies
-├── README.md            # This file
-└── best_model.pth       # Saved after training 
-```
-
----
-
 ## References
 
 - N. Carion et al. *End-to-End Object Detection with Transformers*. ECCV 2020.
