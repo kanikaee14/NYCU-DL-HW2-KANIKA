@@ -26,7 +26,7 @@ The task is to detect all digits in an RGB image and predict both the class labe
 ### Requirements
 
 - Python 3.9 or higher
-- PyTorch (with CUDA or MPS support)
+- PyTorch (with CUDA )
 - torchvision
 
 ### Install dependencies
